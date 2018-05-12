@@ -1,4 +1,4 @@
-![Build Status](https://codebuild.us-east-1.amazon.com/badges?uuid=...&branch=master)
+[![Build Status](https://img.shields.io/badge/awscodestar-latest-brightgreen.svg)](https://console.aws.amazon.com/codebuild/home?region=us-east-1#/builds)
 
 Welcome to the AWS CodeStar sample web service
 ==============================================
